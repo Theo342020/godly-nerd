@@ -41,12 +41,12 @@ h1{
 }
 .container>div {
         float: left;
-        width: 100px;
-        border: solid;
+        width: 45%;
+        height: 400px;
 }
 #item {
         display: block; 
         margin-left: auto; 
         margin-right: auto;
-        width: 30%;
+        width: 90%;
 }
