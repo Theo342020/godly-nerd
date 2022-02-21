@@ -39,7 +39,7 @@ div a img{
 h1{
 	color: rgba(14, 116, 199, 0.7);
 }
-.clothes {
+.container div {
         float: left;
         width: 100px;
         border: solid;
