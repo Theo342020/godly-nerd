@@ -41,6 +41,7 @@ h1{
 }
 .clothes {
         float: left;
+        width: 100px;
 }
 #item {
         display: block; 
