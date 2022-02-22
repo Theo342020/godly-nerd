@@ -41,7 +41,7 @@ h1{
 }
 .container>div {
         float: left;
-        width: 45%;
+        width: 50%;
         height: 400px;
 }
 .container:after {
