@@ -44,6 +44,11 @@ h1{
         width: 45%;
         height: 400px;
 }
+.container:after {
+	content: "";
+	display: table;
+	clear: both;
+}
 #item {
         display: block; 
         margin-left: auto; 
