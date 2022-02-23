@@ -41,3 +41,12 @@
 .container a div img {
 	width: 50%;
 }
+.clothes {
+        display: flex;
+        flex-wrap: wrap;
+}
+.clothes div {
+        float: left;
+        width: 50%;
+        height: 400px;
+}
