@@ -1,56 +1,43 @@
-.listing>ul {
-	overflow: hidden;
-	background-color: rgba(14, 116, 199, 0.7);
-}
 .listing {
-	height: 200px;
-	width: 100%;
-}
-li {
-	float: left;
-	list-style-type: none;
-}
-li a{
-	color: white;
-	text-decoration: none;
-}
-.lister:hover{
-	background-color: rgba(14, 116, 199, 0.4);
-}
-.container{
 	display: flex;
 	flex-wrap: wrap;
 }
-.lister{
-	width: 16.67%;
+.listing ul {
+	background-color: rgb(50, 115, 200);
+	width: 100%;
+	height: 50px;
+	padding-left: 0px;
+	margin: 0px;
+}
+.listing ul li {
+	float: left;
+	list-style-type: none;
+	width: 16%;
 	height: 100%;
 	text-align: center;
 	vertical-align: middle;
-	line-height: 200px;
+	line-height: 50px;
 }
-.container> a{
-	text-decoration: none;
-	color: rgba(14, 116, 199, 0.7);
+.lister:hover {
+	background-color: rgb(50, 200, 230);
 }
-div a img{
-	width: 150px;
-	margin: 15px;
+.container {
+	display: flex;
+	flex-wrap: wrap;
 }
-h1{
-	color: rgba(14, 116, 199, 0.7);
+.container>a {
+	float: left;
+	border: solid 1px rgb(50, 115, 200);
+	width: 18%;
+	height: 200px;
+	margin: 2%;
 }
-.container>div {
-        float: left;
-        width: 50%;
+.container>a div {
+	height: 100%;
+	text-align: center;
+	vertical-align: bottom;
+	line-height: 70px;
 }
-.container:after {
-	content: "";
-	display: table;
-	clear: both;
-}
-#item {
-        display: block; 
-        margin-left: auto; 
-        margin-right: auto;
-        width: 60%;
+.container a div img {
+	width: 50%;
 }
