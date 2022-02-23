@@ -1,17 +1,18 @@
-div>ul {
+.listing>ul {
 	overflow: hidden;
 	background-color: rgba(14, 116, 199, 0.7);
 }
+.listing {
+	height: 200px;
+	width: 100%;
+}
 li {
 	float: left;
-	margin: 20px;
-	margin-left: 50px;
 	list-style-type: none;
 }
 li a{
 	color: white;
 	text-decoration: none;
-	padding: 20px;
 }
 .lister:hover{
 	background-color: rgba(14, 116, 199, 0.4);
@@ -22,11 +23,10 @@ li a{
 }
 .lister{
 	width: 16.67%;
-	height: 240px;
-	/*margin: 10px;*/
-	/*background-color: rgba(14, 116, 199, 0.4);*/
+	height: 100%;
 	text-align: center;
-	border: 1px solid black;
+	vertical-align: middle;
+	line-height: 200px;
 }
 .container> a{
 	text-decoration: none;
