@@ -18,6 +18,10 @@
 	vertical-align: middle;
 	line-height: 50px;
 }
+.listing a {
+        text-decoration: none;
+        color: white;
+}
 .lister:hover {
 	background-color: rgb(50, 200, 230);
 }
@@ -28,8 +32,8 @@
 .container>a {
 	float: left;
 	border: solid 1px rgb(50, 115, 200);
-	width: 18%;
-	height: 200px;
+	width: 200px;
+	height: 400px;
 	margin: 2%;
 }
 .container>a div {
@@ -48,7 +52,7 @@
 .clothes div {
         float: left;
         width: 50%;
-        height: 400px;
+        height: 200px;
         border: 1px solid;
 }
 #item {
