@@ -49,6 +49,7 @@
         float: left;
         width: 50%;
         height: 400px;
+        border: 1px solid;
 }
 #item {
         width: 75%;
