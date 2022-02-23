@@ -40,6 +40,7 @@
 	height: 100%;
 	text-align: center;
 	vertical-align: bottom;
+        line-height: 300px;
 }
 .container a div img {
 	width: 50%;
@@ -51,7 +52,8 @@
 .clothes div {
         float: left;
         width: 50%;
-        height: 200px;
+        height: 300px;
+        overflow: none;
 }
 #item {
         width: 75%;
