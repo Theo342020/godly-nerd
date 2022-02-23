@@ -40,7 +40,7 @@
 	height: 100%;
 	text-align: center;
 	vertical-align: bottom;
-        line-height: 300px;
+        line-height: 250px;
 }
 .container a div img {
 	width: 50%;
@@ -53,7 +53,7 @@
         float: left;
         width: 50%;
         height: 300px;
-        overflow: none;
+        overflow: hidden;
 }
 #item {
         width: 75%;
