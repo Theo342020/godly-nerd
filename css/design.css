@@ -54,7 +54,9 @@
         width: 50%;
         height: 400px;
         overflow: hidden;
-        text-align: center;
+}
+#picDiv {
+	text-align: right;
 }
 #item {
         width: 50%;
