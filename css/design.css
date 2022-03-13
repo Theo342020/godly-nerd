@@ -39,8 +39,8 @@
 .container>a div {
 	height: 100%;
 	text-align: center;
-	/*vertical-align: bottom;
-        line-height: 200px;*/
+	vertical-align: bottom;
+        line-height: 200px;
         padding-top: 3%;
 }
 .container a div img {
@@ -64,6 +64,6 @@
         margin-left: auto;
         margin-right: auto;
 }
-.logoPic {
+.logoPic img {
 	width: 30%;
 }
