@@ -36,14 +36,20 @@
 	height: 400px;
 	margin: 2%;
 }
-.container>a div {
+.card {
 	height: 100%;
 	text-align: center;
 	vertical-align: bottom;
         line-height: 150px;
         padding-top: 3%;
 }
-.container a div img {
+.topD {
+	height: 60%;
+}
+.bottomD {
+	height: 40%;
+}
+.top img {
 	width: 75%;
 }
 .clothes {
