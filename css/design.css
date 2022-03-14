@@ -45,12 +45,13 @@
 }
 .topD {
 	height: 60%;
+        overflow: none;
 }
 .bottomD {
 	height: 40%;
 }
 .topD>img {
-	width: 50%;
+	width: 25%;
 }
 .clothes {
         display: flex;
