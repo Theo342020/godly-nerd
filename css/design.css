@@ -32,7 +32,7 @@
 .container>a {
 	float: left;
 	border: solid 1px rgb(50, 115, 200);
-	width: 33%;
+	width: 200px;
 	height: 400px;
 	margin: 2%;
 }
@@ -48,8 +48,8 @@
 	height: 40%;
 }
 .topD>img {
-	width: 50px;
-        display: none;
+	width: 50%;
+        display: hidden;
 }
 .clothes {
         display: flex;
