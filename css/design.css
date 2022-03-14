@@ -32,16 +32,13 @@
 .container>a {
 	float: left;
 	border: solid 1px rgb(50, 115, 200);
-	width: 300px;
+	width: 33%;
 	height: 400px;
 	margin: 2%;
 }
 .card {
 	height: 100%;
 	text-align: center;
-	vertical-align: bottom;
-        line-height: 150px;
-        padding-top: 3%;
 }
 .topD {
 	height: 60%;
