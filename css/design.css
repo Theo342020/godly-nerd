@@ -43,12 +43,13 @@
 .topD {
 	height: 60%;
         overflow: none;
+        margin-top: 5%;
 }
 .bottomD {
 	height: 40%;
 }
 .topD>img {
-	width: 50%;
+	width: 70%;
 }
 .clothes {
         display: flex;
