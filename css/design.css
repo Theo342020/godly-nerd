@@ -50,8 +50,8 @@
 .bottomD {
 	height: 40%;
 }
-.topD img {
-	width: 75%;
+.topD>img {
+	width: 50%;
 }
 .clothes {
         display: flex;
