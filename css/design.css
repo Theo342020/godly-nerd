@@ -49,6 +49,7 @@
 }
 .topD>img {
 	width: 50px;
+        display: none;
 }
 .clothes {
         display: flex;
