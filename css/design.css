@@ -45,11 +45,12 @@
 }
 .topD {
 	height: 60%;
+	overflow: hidden;
 }
 .bottomD {
 	height: 40%;
 }
-.top img {
+.topD img {
 	width: 75%;
 }
 .clothes {
