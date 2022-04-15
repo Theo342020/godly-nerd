@@ -44,12 +44,12 @@
 	text-align: center;
 }
 .topD {
-	height: 60%;
+	height: 80%;
         overflow: none;
         margin-top: 5%;
 }
 .bottomD {
-	height: 40%;
+	height: 20%;
 }
 .topD>img {
 	width: 70%;
