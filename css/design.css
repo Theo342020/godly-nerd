@@ -23,7 +23,7 @@
         color: white;
 }
 .lister:hover {
-	background-color: rgb(50, 200, 230);
+	background-color: rgb(50, 115, 230);
 }
 .container {
 	display: flex;
