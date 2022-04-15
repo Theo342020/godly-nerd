@@ -39,6 +39,7 @@
 .card {
 	height: 100%;
 	text-align: center;
+	border-style: none;
 }
 .topD {
 	height: 60%;
