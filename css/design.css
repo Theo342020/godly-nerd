@@ -32,8 +32,8 @@
 .container>a {
 	float: left;
 	/*border: solid 1px rgb(50, 115, 200);*/
-	width: 150px;
-	height: 400px;
+	width: 200px;
+	height: 300px;
 	margin: 2%;
 }
 .container>a:hover {
