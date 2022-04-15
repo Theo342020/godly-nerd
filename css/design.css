@@ -36,6 +36,9 @@
 	height: 400px;
 	margin: 2%;
 }
+.container>a:hover {
+	background-color: rgb(50, 200, 230);
+}
 .card {
 	height: 100%;
 	text-align: center;
