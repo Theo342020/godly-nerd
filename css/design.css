@@ -66,6 +66,7 @@
 }
 #picDiv {
 	/*text-align: center;*/
+	border: 1px soild black;
 }
 #item {
         width: 50%;
