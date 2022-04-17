@@ -60,11 +60,11 @@
 }
 .clothes div {
         float: left;
-        width: 50%;
         height: 400px;
         overflow: hidden;
 }
 #picDiv {
+	width: 33%;
 	/*text-align: center;*/
 	border: 1px solid black;
 }
