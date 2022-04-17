@@ -65,14 +65,13 @@
 }
 #picDiv {
 	width: 33%;
-	/*text-align: center;*/
-	border: 1px solid black;
+	text-align: center;
 }
 #des {
-	width: 67%;
+	width: 66%;
 }
 #item {
-        width: 50%;
+        width: 60%;
         margin-left: auto;
         margin-right: auto;
 }
