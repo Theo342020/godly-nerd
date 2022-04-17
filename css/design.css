@@ -78,6 +78,7 @@
 #picDiv { /* Designing the picture div */
 	width: 33%;
 	text-align: center;
+	padding: 20px;
 }
 #des { /* Designing the description div */
 	width: 66%;
