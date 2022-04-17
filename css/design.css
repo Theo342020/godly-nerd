@@ -9,17 +9,17 @@
 	display: grid;
 	grid-column-gap: 10px;
 	grid-row-gap: 10px;
-	grid-template-columns: 150px, 150px, auto;
+	grid-template-columns: 150px, 150px, 150px, 150px, 150px, auto;
 }
-/*
-.listing>div { 
+.listing>div { /* Designing the link aspect of the list element */
         text-decoration: none;
         color: white;
+        width: 150px;
         height: 40px;
         text-align: center;
         vertical-align: middle;
         line-height: 40px;
-} */
+}
 .listing>div:hover {
 	background-color: rgb(50, 115, 230);
 }
