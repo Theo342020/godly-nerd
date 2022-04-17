@@ -5,10 +5,11 @@
 /* ------------------- MENU -------------------*/
 
 .listing { /* To make the menu wrap */
-	display: flex;
-	flex-wrap: wrap;
+	
 }
 .listing ul { /* Designing the entire list */
+	display: flex;
+	flex-wrap: wrap;
 	background-color: rgb(50, 115, 200);
 	width: 100%;
 	height: 50px;
