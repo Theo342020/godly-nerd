@@ -89,7 +89,7 @@
 
 /* ------------------- AJUSTING WEBPAGE FOR MOBILE SCREENS ------------------- */
 
-@media (max-width: 700px){
+@media (max-width: 900px){
 	.listing>div {
 		width: 100px;
 	}
