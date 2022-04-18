@@ -26,11 +26,6 @@
 .listing>div:hover {
 	background-color: rgb(50, 115, 230);
 }
-@media (max-width: 600px){
-	.listing>div {
-		width: 100px;
-	}
-}
 
 /* ------------------- INDEX PAGE CLOTHES OPTIONS AREA -------------------*/
 
@@ -90,4 +85,16 @@
         width: 60%;
         margin-left: auto;
         margin-right: auto;
+}
+
+/* ------------------- AJUSTING WEBPAGE FOR MOBILE SCREENS ------------------- */
+
+@media (max-width: 700px){
+	.listing>div {
+		width: 100px;
+	}
+	.container>a {
+		width: 100px;
+		height: 125px;
+	}
 }
