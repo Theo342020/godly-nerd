@@ -1,7 +1,9 @@
 /* ------------------- LOGO -------------------*/
+
 .logoPic img { /* Logo picture */
 	width: 30%;
 }
+
 /* ------------------- MENU -------------------*/
 
 .listing { /* To make the menu wrap */
@@ -24,8 +26,14 @@
 .listing>div:hover {
 	background-color: rgb(50, 115, 230);
 }
+@media (max-width: 600px){
+	.listing>div {
+		width: 100px;
+	}
+}
 
 /* ------------------- INDEX PAGE CLOTHES OPTIONS AREA -------------------*/
+
 .container { /* */
 	display: flex;
 	flex-wrap: wrap;
@@ -42,6 +50,7 @@
 }
 
 /* ------------------- INDEX PAGE INDIVIDUAL CARDS -------------------*/
+
 .card {  /* Designing the entire option card */
 	height: 100%;
 	text-align: center;
@@ -59,6 +68,7 @@
 }
 
 /* ------------------- CLOTHES PAGE CLOTHES AND DESCRIPTION -------------------*/
+
 .clothes { /* Designing the two top divs area */
         display: flex;
         flex-wrap: wrap;
